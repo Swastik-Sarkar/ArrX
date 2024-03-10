@@ -2,7 +2,7 @@ import os
 import ipinfo
 
 def ipa(enteredData):
-    key = "9d6f1c95db11d5"
+    key = "KEY" #Get your key for ipinfo website
     h = ipinfo.getHandler(key)
     dt = h.getDetails(enteredData)
     return dt.all
