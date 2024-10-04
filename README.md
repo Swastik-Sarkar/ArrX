@@ -1,4 +1,4 @@
 # ArrX
-A Simple application to find details of an IPv4 or IPv6 Address
+A simple IP lookup applicaion
 #### Application not opening?
 Try disabling Windows Defender or compile the main python file to exe using pyinstaller.
